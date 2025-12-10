@@ -1,0 +1,21 @@
+# Byte-compiled / caches
+__pycache__/
+*.pyc
+*.pyo
+
+# virtual env
+.venv/
+venv/
+ENV/
+
+# editor configs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# test outputs
+.coverage
+htmlcov/
